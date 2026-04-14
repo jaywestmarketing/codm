@@ -1,0 +1,5 @@
+{
+  "name": "FPS Pattern Automator",
+  "description": "Advanced Android utility for recording, replaying, and analyzing FPS gameplay patterns using neural input mapping.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
